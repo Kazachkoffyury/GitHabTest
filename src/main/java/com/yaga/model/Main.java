@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Юра,Привет!");
         System.out.println("хрень собачья");
         System.out.println("Добавить, жеванного крота");
+        System.out.println("Йогурт, просроченный");
     }
 }
