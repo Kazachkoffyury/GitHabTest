@@ -6,6 +6,8 @@ public class Main {
         System.out.println("хрень собачья");
         System.out.println("Добавить, жеванного крота");
         System.out.println("Йогурт, просроченный");
+ фича-хуича
         System.out.println("Бешенные кабаны бегут от денег из России");
+        System.out.println("Йогурт, не просроченный, а херовый");
     }
 }
