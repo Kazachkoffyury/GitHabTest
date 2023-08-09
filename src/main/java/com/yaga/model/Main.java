@@ -8,5 +8,12 @@ public class Main {
         System.out.println("Йогурт, просроченный");
         System.out.println("Бешенные кабаны бегут от денег из России");
         System.out.println("Йогурт, не просроченный, а херовый");
+
+        for (int i = 0; i < 10; i++) {
+
+            System.out.println(i + " Ты проебал День ");
+        }
+
+        System.out.println("тестируем черри пик/изначально закоммитил в мастер!!");
     }
 }
